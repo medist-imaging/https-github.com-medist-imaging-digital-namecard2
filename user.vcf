@@ -7,7 +7,7 @@ ORG:MEDIST Imaging & POC;
 TITLE:Product Manager\nSales Department
 EMAIL;type=INTERNET;type=WORK;type=pref:elod.sofalvi@medist.ro
 TEL;type=WORK;type=VOICE:+40 727 300 930
-item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34\nfloor 1\, \n050688\;Bucharest;ROmania
+item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34\nfloor 1\, \n050688\;Bucharest;Romania
 item1.X-ABADR:ro
 item2.URL;type=pref:https://medist-imaging.ro/
 item2.X-ABLabel:_$!<HomePage>!$_
