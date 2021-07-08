@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Mihai Alexandru;Ionuț;;;
-FN: Ionuț Alexandru Mihai  
+N:Sófalvi;Előd;;;
+FN: Előd Sófalvi   
 ORG:MEDIST Imaging & POC;
 TITLE:Key Account Manager\nSales Department
-EMAIL;type=INTERNET;type=WORK;type=pref:ionut.mihai@medist.ro
-TEL;type=WORK;type=VOICE:+40 799 601 371
+EMAIL;type=INTERNET;type=WORK;type=pref:elod.sofalvi@medist.ro
+TEL;type=WORK;type=VOICE:+40 727 300 930
 item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34\nfloor 1\, \n050688\;Bucharest;Romania  
 item1.X-ABADR:ro
 item2.URL;type=pref:https://medist-imaging.ro/
